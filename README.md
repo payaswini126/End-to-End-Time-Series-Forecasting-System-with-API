@@ -271,8 +271,14 @@ This project is designed as a case study for data science interviews and product
 
 ## 👨‍💻 Author
 
-Built as a top 1% data science project demonstrating:
-- End-to-end ML pipeline
-- Multiple forecasting techniques
-- Production-ready API design
-- Best practices in time series forecasting
+**Payaswini**
+
+Built as a high-quality, production-ready data science project demonstrating:
+
+- End-to-end machine learning pipeline
+- Multiple forecasting techniques (SARIMA, Prophet, XGBoost, LSTM)
+- Automated model comparison and selection
+- Production-grade REST API architecture
+- Advanced feature engineering for time series
+- Scalable deployment and testing workflows
+- Industry best practices in forecasting systems
